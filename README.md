@@ -16,7 +16,7 @@ python main.py --first S --last H
 
 <img src="docs/img1.jpeg" width=400>
 
-<img src="docs/img2.png" height=200><img src="docs/img3.png" height=200>
+<img src="docs/img2.png" height=250><img src="docs/img3.png" height=250>
 
 ### 3D viewer for .obj file
 
