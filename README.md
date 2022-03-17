@@ -1,4 +1,4 @@
-# 3D-ILM: 3D Initial Logo Maker
+# 3D-ILM: Initial Logo Maker
 
 ## Environment
 
